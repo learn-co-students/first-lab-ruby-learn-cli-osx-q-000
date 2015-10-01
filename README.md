@@ -45,3 +45,7 @@ You can also pass this lab by creating a new file. From Terminal, you can run `t
 ![Passing Tests](https://dl.dropboxusercontent.com/s/op46jyoc228ji62/2015-09-30%20at%207.53%20PM.png)
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
+
+![learn submit](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
+
+You should see this lab pass on Learn.co, congratulations!
