@@ -8,6 +8,14 @@
 4. Pass the tests using the `learn` CLI command.
 5. Submit the passing lab with the `learn submit` CLI command.
 
+## Overview
+
+Now that you've learned all about how to work on Lab's on Learn, we're going to practice using the Learn CLI to work on this very lab. To complete this lab you need to:
+
+1. Open the lab with the Learn CLI
+2. Make a change to the `edit-me.txt` file or add a new file.
+3. Submit the lab with the Learn CLI
+
 ## Instructions
 
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
