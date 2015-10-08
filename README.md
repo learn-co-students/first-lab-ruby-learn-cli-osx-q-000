@@ -50,10 +50,10 @@ You can open `edit-me.txt` and you'll see it is currently empty. Add anything to
 
 You can also pass this lab by creating a new file. From Terminal, you can run `touch new-file` to create a new file. Or use your text editor to create a new file and save it. If a new file is added to this lab, when you run `learn`, your tests should pass.
 
-![Passing Tests](https://dl.dropboxusercontent.com/s/op46jyoc228ji62/2015-09-30%20at%207.53%20PM.png)
+![Passing Tests](https://dl.dropboxusercontent.com/s/wu3l4a53w0ey9rm/2015-10-07%20at%2011.16%20PM.png)
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-![learn submit](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
+![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
 
 You should see this lab pass on Learn.co, congratulations!
