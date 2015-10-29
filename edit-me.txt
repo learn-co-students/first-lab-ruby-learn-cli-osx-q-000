@@ -1,0 +1,10 @@
+#text file to edit
+def walrus(n)
+  if walrus > 2 
+    puts "BIG"
+  else
+    puts "small"
+  end
+
+  walrus(5)
+  
