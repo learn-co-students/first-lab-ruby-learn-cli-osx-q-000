@@ -1,0 +1,10 @@
+When I type learn into the Terminal I receive the following, what or where did I wrong turn in the setup of my learn.co?  
+Coughinathartic:~ fg$ learn
+Usage: learn ex<exercise_number>.rb
+Coughinathartic:~ fg$ 'learn'
+Usage: learn ex<exercise_number>.rb
+Coughinathartic:~ fg$ learn
+Usage: learn ex<exercise_number>.rb
+Coughinathartic:~ fg$ 
+
+Also my learn open was unsuccessful also, it requested an account 
