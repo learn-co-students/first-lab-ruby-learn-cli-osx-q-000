@@ -20,6 +20,7 @@ Now that you've learned all about how to work on Lab's on Learn, we're going to 
 
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
+
 1. Click on the "Open" link on the lab toolbar above.
 
   ![Open Button](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
