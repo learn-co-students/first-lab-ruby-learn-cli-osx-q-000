@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <header>
+    <title>Hi, this is my site</title>
+  </header>
+  <body>
+    <p>This is all a test <br> ... Did it work?</p>
+    <p>I want a second paragraph for <b>emphasis</b></p>
+  </body>
+</html>
