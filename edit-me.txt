@@ -1,0 +1,1 @@
+I added text to my edit-me.txt file. I am excited to put into practice some things I learned at the GDI Intro to Git and Version Control class I took last week. 
