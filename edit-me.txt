@@ -1,1 +1,3 @@
 I opened this file by typing open edit-me.txt
+
+more changes because my open a pull request won’t turn green allowing me to go to the next lesson
