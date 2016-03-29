@@ -1,0 +1,14 @@
+<!DOCUTYPEhtml>
+<header>test
+</header>
+<style>
+h1.
+{color:white
+background:black;
+text-align:center;
+}
+</style>
+<body>
+<h1><p>hello learn</p>
+</body>
+</DOCUTYPEhtml>
