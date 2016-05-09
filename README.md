@@ -34,7 +34,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
   This setup, a terminal in the lab's directory and the lab directory open in an editor like Sublime or Atom, that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
-3. From your terminal, run the test suite by typing `learn` and hitting enter. You'll see something simlar to:
+3. From your terminal, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
   ![Failing Test](https://dl.dropboxusercontent.com/s/0ik01a1urmuw7o6/2015-09-30%20at%207.46%20PM.png)
 
