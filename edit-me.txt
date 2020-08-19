@@ -1,0 +1,4 @@
+ ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gi
+  f)
+  You should see this lab pass on Learn.co, congratulations!
+  
