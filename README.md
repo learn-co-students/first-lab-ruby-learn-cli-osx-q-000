@@ -1,4 +1,113 @@
 # First Lab Ruby Learn Cli Osx
+Close
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+# First Lab Ruby Learn Cli Osx
+## Objectives
+1. Open a lab by clicking "Open" on this page on Learn.co.
+2. Run the lab's tests with the `learn` CLI command.
+3. Make a change to your local copy of this lab.
+4. Pass the tests using the `learn` CLI command.
+5. Submit the passing lab with the `learn submit` CLI command.
+## Overview
+Now that you've learned all about how to work on Lab's on Learn, we're going to practice using the 
+Learn CLI to work on this very lab. To complete this lab you need to:
+1. Open the lab with the Learn CLI
+2. Make a change to the `edit-me.txt` file or add a new file.
+3. Submit the lab with the Learn CLI
+## Instructions
+This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
+1. Click on the "Open" link on the lab toolbar above.
+  ![Open Button](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
+  After you click on this, your Terminal should popup and open the lab locally by forking it on GitHub, 
+  cloning your fork, and `cd`ing into the lab's directory, and opening your editor.
+  ![Learn Open](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/open-from-learn-co.gif)
+2. After the lab is opened, your terminal should be in the lab's directory and your text editor should 
+be opened.
+  ![Work mode](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)
+  This setup, a terminal in the lab's directory and the lab directory open in an editor like Sublime or 
+  Atom, that's the state you want to be in when working on a lab on Learn. It means you're ready.
+3. From your terminal, run the test suite by typing `learn` and hitting enter. You'll see something 
+simlar to:
+  ![Failing Test](https://dl.dropboxusercontent.com/s/0ik01a1urmuw7o6/2015-09-30%20at%207.46%20PM.png)
+  *Note: My prompt is `// ♥`, yours might be different. You'll see a terminal prompt generally 
+  represented by a `$`. That indicates you're suppose to be typing in terminal.*
+  You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes 
+  sense.
+  The failure reads: `Make sure you have added a new file or edited edit-me.txt`
+4. To pass this lab, either make any change to the content of `edit-me.txt` or create a new file.
+  You can open `edit-me.txt` and you'll see it is currently empty. Add anything to that file, save the 
+  file, and then run `learn`, everything should pass.
+  You can also pass this lab by creating a new file. From Terminal, you can run `touch new-file` to 
+  create a new file. Or use your text editor to create a new file and save it. If a new file is added 
+  to this lab, when you run `learn`, your tests should pass.
+  ![Passing Tests](https://dl.dropboxusercontent.com/s/wu3l4a53w0ey9rm/2015-10-07%20at%2011.16%20PM.png
+  )
+5. Once your local tests are passing, you can submit this lab by running `learn submit` from your 
+terminal.
+  ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gi
+  f)
+  You should see this lab pass on Learn.co, congratulations!
+
 
 ## Objectives
 
