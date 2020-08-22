@@ -1,4 +1,5 @@
  ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gi
   f)
+  Now that you've learned all about how to work on Labs on Learn, we're going to practice using the Learn CLI to work on this very lab. To complete this lab you need to:
   You should see this lab pass on Learn.co, congratulations!
   
